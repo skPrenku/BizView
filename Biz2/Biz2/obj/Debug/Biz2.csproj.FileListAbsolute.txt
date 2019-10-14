@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\Biz2\Biz2\bin\Debug\Biz2.exe
+C:\Users\admin\source\repos\Biz2\Biz2\bin\Debug\Biz2.pdb
+C:\Users\admin\source\repos\Biz2\Biz2\obj\Debug\Biz2.Properties.Resources.resources
+C:\Users\admin\source\repos\Biz2\Biz2\obj\Debug\Biz2.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Biz2\Biz2\obj\Debug\Biz2.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Biz2\Biz2\obj\Debug\Biz2.exe
+C:\Users\admin\source\repos\Biz2\Biz2\obj\Debug\Biz2.pdb
+C:\Users\admin\source\repos\Biz2\Biz2\bin\Debug\Database.mdf
+C:\Users\admin\source\repos\Biz2\Biz2\bin\Debug\Database_log.ldf
+C:\Users\admin\source\repos\Biz2\Biz2\bin\Debug\Biz2.exe.config
+C:\Users\admin\source\repos\Biz2\Biz2\obj\Debug\Biz2.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Biz2\Biz2\obj\Debug\Biz2.Login_Form.resources
+C:\Users\admin\source\repos\Biz2\Biz2\bin\Debug\MySql.Data.dll
+C:\Users\admin\source\repos\Biz2\Biz2\obj\Debug\Biz2.csproj.CopyComplete
+C:\Users\admin\source\repos\Biz2\Biz2\obj\Debug\Biz2.Form1.resources
